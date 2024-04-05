@@ -1,0 +1,22 @@
+﻿  Render.cpp
+D:\Admin\Документы\ВУЗ\Компьютерная графика\grafika_lab1-master\OpenGLrememberProj\Render.cpp(141,23): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\Admin\Документы\ВУЗ\Компьютерная графика\grafika_lab1-master\OpenGLrememberProj\Render.cpp(141,18): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\Admin\Документы\ВУЗ\Компьютерная графика\grafika_lab1-master\OpenGLrememberProj\Render.cpp(141,13): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\Admin\Документы\ВУЗ\Компьютерная графика\grafika_lab1-master\OpenGLrememberProj\Render.cpp(152,23): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\Admin\Документы\ВУЗ\Компьютерная графика\grafika_lab1-master\OpenGLrememberProj\Render.cpp(152,18): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\Admin\Документы\ВУЗ\Компьютерная графика\grafika_lab1-master\OpenGLrememberProj\Render.cpp(152,13): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\Admin\Документы\ВУЗ\Компьютерная графика\grafika_lab1-master\OpenGLrememberProj\Render.cpp(162,23): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\Admin\Документы\ВУЗ\Компьютерная графика\grafika_lab1-master\OpenGLrememberProj\Render.cpp(162,18): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\Admin\Документы\ВУЗ\Компьютерная графика\grafika_lab1-master\OpenGLrememberProj\Render.cpp(162,13): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\Admin\Документы\ВУЗ\Компьютерная графика\grafika_lab1-master\OpenGLrememberProj\Render.cpp(175,11): warning C4244: инициализация: преобразование "double" в "float", возможна потеря данных
+D:\Admin\Документы\ВУЗ\Компьютерная графика\grafika_lab1-master\OpenGLrememberProj\Render.cpp(200,23): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\Admin\Документы\ВУЗ\Компьютерная графика\grafika_lab1-master\OpenGLrememberProj\Render.cpp(200,18): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\Admin\Документы\ВУЗ\Компьютерная графика\grafika_lab1-master\OpenGLrememberProj\Render.cpp(211,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\Admin\Документы\ВУЗ\Компьютерная графика\grafika_lab1-master\OpenGLrememberProj\Render.cpp(211,17): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\Admin\Документы\ВУЗ\Компьютерная графика\grafika_lab1-master\OpenGLrememberProj\Render.cpp(222,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\Admin\Документы\ВУЗ\Компьютерная графика\grafika_lab1-master\OpenGLrememberProj\Render.cpp(222,17): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\Admin\Документы\ВУЗ\Компьютерная графика\grafika_lab1-master\OpenGLrememberProj\Render.cpp(234,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\Admin\Документы\ВУЗ\Компьютерная графика\grafika_lab1-master\OpenGLrememberProj\Render.cpp(234,17): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\Admin\Документы\ВУЗ\Компьютерная графика\grafika_lab1-master\OpenGLrememberProj\Render.cpp(245,22): warning C4305: аргумент: усечение из "double" в "GLfloat"
+D:\Admin\Документы\ВУЗ\Компьютерная графика\grafika_lab1-master\OpenGLrememberProj\Render.cpp(245,17): warning C4305: аргумент: усечение из "double" в "GLfloat"
+  OpenGLrememberProj.vcxproj -> D:\Admin\Документы\ВУЗ\Компьютерная графика\grafika_lab1-master\Debug\OpenGLrememberProj.exe
